@@ -68,7 +68,9 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 
 <section>
 <h2> Quotes </h2>
+<blockquote>
 <p> >The journey of a thousand miles begins with one step </p>
 <i> Lao Tzu </i>
 <p> >Strive not to be a success, but rather to be of value </p>
 <i> Albert Einstein </i>
+</blockquote>
