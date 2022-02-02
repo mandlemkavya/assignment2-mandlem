@@ -24,19 +24,20 @@ Rajiv Gandhi International Airport is closest airport
 <li> Slight left to stay on Gachibowli Rd/Old Mumbai Hwy </li>
 <li> Turn left onto Hitech City Main Rd </li>
 <li> At the roundabout, take the 3rd exit onto Inorbit Mall Rd </li>
-
+</ol>
+<ul>
 <h1> UNORDERED LIST </h1> 
 
             -- Aloo patty
             -- Italian B.M.T
             -- Corn&Peas
             -- Egg And Cheese wrap
-            -- Paneer Tikka</td>
+            -- Paneer Tikka
             -- Veg premium sandwich
             -- subway club sandwich
             -- Mexican wrap
+</ul>
 
-</ol>
 </section>
 
 
