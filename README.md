@@ -51,17 +51,17 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 <h2> Sports </h2>
 <h3> Basketball </h3>
 <p> Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball </p>
-<h4>Cricket </h4>
+<h3>Cricket </h3>
 <p> Cricket is a bat-and-ball game played between two teams of eleven players each on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps </p>
-<h5> Foot Ball </h5>
+<h3> Foot Ball </h3>
 <p> Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used. </p>
-<h6> Volley ball </h6>
+<h3> Volley ball </h3>
 <p> Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules.[1] It has been a part of the official program of the Summer Olympic Games since Tokyo 1964. Beach volleyball was introduced to the programme at the Atlanta 1996.</p>
 
 <table>
-    <td> <h2> Name </h2> </td>
-    <td> <h2> Location </h2> </td>
-    <td> <h2> Amount </h2> </td>
+    <td> <h3> Name </h3> </td>
+    <td> <h3> Location </h3> </td>
+    <td> <h3> Amount </h3> </td>
 
 
 </table>
