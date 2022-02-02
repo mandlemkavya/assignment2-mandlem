@@ -7,16 +7,16 @@ Being vegan subway is the best place to find lot of healthy hygiene veg burgers/
 <section>
 
 <h1> ORDERED LIST </h1>
-Rajiv Gandhi International Airport is closest airport
-1. Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road
-2. Head east on Airport Approach Road toward Cargo Rotary 
-3. At Cargo Rotary, take the 3rd exit and stay on Airport Approach Road 
-4. Use the left lane to keep left at the fork and continue toward NH 44 
-5. Continue on Nehru Outer Ring Rd to Madhava Reddy Colony 
-6. Use the left 3 lanes to take exit 19 toward Nanakramguda/Financial District 
-7. Follow Gachibowli Rd/Old Mumbai Hwy and Hitech City Main Rd to Inorbit Mall Rd in Madhapur 
-8. At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy 
-9. At the roundabout, take the 3rd exit onto Inorbit Mall Rd 
+Rajiv Gandhi International Airport is closest airport 
+1. Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road  
+2. Head east on Airport Approach Road toward Cargo Rotary  
+3. At Cargo Rotary, take the 3rd exit and stay on Airport Approach Road  
+4. Use the left lane to keep left at the fork and continue toward NH 44  
+5. Continue on Nehru Outer Ring Rd to Madhava Reddy Colony  
+6. Use the left 3 lanes to take exit 19 toward Nanakramguda/Financial District  
+7. Follow Gachibowli Rd/Old Mumbai Hwy and Hitech City Main Rd to Inorbit Mall Rd in Madhapur  
+8. At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy   
+9. At the roundabout, take the 3rd exit onto Inorbit Mall Rd   
 <h1> UNORDERED LIST </h1> 
 
             -- Aloo patty
