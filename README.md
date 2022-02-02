@@ -8,24 +8,15 @@ Being vegan subway is the best place to find lot of healthy hygiene veg burgers/
 
 <h1> ORDERED LIST </h1>
 Rajiv Gandhi International Airport is closest airport
-<ol>
-<li> Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road </li>
-<li> Head east on Airport Approach Road toward Cargo Rotary </li>
-<li> At Cargo Rotary, take the 3rd exit and stay on Airport Approach Road </li>
-<li> Use the left lane to keep left at the fork and continue toward NH 44 </li>
-<li> Use the left lane to continue toward NH 44 </li>
-<li> Slight left onto the ramp to Nehru Outer Ring Rd </li>
-<li> Continue on Nehru Outer Ring Rd to Madhava Reddy Colony </li>
-<li> Merge onto Nehru Outer Ring Rd </li>
-<li> Use the left 3 lanes to take exit 19 toward Nanakramguda/Financial District </li>
-<li> Continue onto Nehru Outer Ring Rd </li>
-<li> Follow Gachibowli Rd/Old Mumbai Hwy and Hitech City Main Rd to Inorbit Mall Rd in Madhapur </li>
-<li> At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy </li>
-<li> Slight left to stay on Gachibowli Rd/Old Mumbai Hwy </li>
-<li> Turn left onto Hitech City Main Rd </li>
-<li> At the roundabout, take the 3rd exit onto Inorbit Mall Rd </li>
-</ol>
-<ul>
+1. Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road
+2. Head east on Airport Approach Road toward Cargo Rotary 
+3. At Cargo Rotary, take the 3rd exit and stay on Airport Approach Road 
+4. Use the left lane to keep left at the fork and continue toward NH 44 
+5. Continue on Nehru Outer Ring Rd to Madhava Reddy Colony 
+6. Use the left 3 lanes to take exit 19 toward Nanakramguda/Financial District 
+7. Follow Gachibowli Rd/Old Mumbai Hwy and Hitech City Main Rd to Inorbit Mall Rd in Madhapur 
+8. At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy 
+9. At the roundabout, take the 3rd exit onto Inorbit Mall Rd 
 <h1> UNORDERED LIST </h1> 
 
             -- Aloo patty
@@ -36,7 +27,7 @@ Rajiv Gandhi International Airport is closest airport
             -- Veg premium sandwich
             -- subway club sandwich
             -- Mexican wrap
-</ul>
+
 
 </section>
 
