@@ -63,8 +63,12 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
     <td> <h3> Location </h3> </td>
     <td> <h3> Amount </h3> </td>
 
-
 </table>
-
-
 </section>
+
+<section>
+<h2> Quotes </h2>
+<p> >The journey of a thousand miles begins with one step </p>
+<i> Lao Tzu </i>
+<p> >Strive not to be a success, but rather to be of value </p>
+<i> Albert Einstein </i>
