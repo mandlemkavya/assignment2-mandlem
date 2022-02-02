@@ -6,7 +6,8 @@ Being vegan subway is the best place to find lot of healthy hygiene veg burgers/
 
 <section>
 
-<h1> ORDERED LIST </h1>
+## ORDERED LIST
+
 Rajiv Gandhi International Airport is closest airport 
 1. Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road  
 2. Head east on Airport Approach Road toward Cargo Rotary  
@@ -17,7 +18,8 @@ Rajiv Gandhi International Airport is closest airport
 7. Follow Gachibowli Rd/Old Mumbai Hwy and Hitech City Main Rd to Inorbit Mall Rd in Madhapur  
 8. At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy   
 9. At the roundabout, take the 3rd exit onto Inorbit Mall Rd   
-<h1> UNORDERED LIST </h1> 
+
+## UNORDERED LIST 
 
             -- Aloo patty
             -- Italian B.M.T
@@ -32,7 +34,7 @@ Rajiv Gandhi International Airport is closest airport
 </section>
 
 
-<li> About Me Link </li> 
+About Me Link  
 
 
 
@@ -40,8 +42,8 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 
 <section>
 
-<h2> Sports </h2>
-<p>  Table shows the sports activity cost effectiveness data which was held on different location in the year-2021. Data shows detailed cost analysis volley ball event held on location cost is higher than badminton sports event, cricket is one of the best game in the world also numerous amount of player resulted in high cost consumption for security, accomdation, food, other extra sources </p>
+## Sports
+Table shows the sports activity cost effectiveness data which was held on different location in the year-2021. Data shows detailed cost analysis volley ball event held on location cost is higher than badminton sports event, cricket is one of the best game in the world also numerous amount of player resulted in high cost consumption for security, accomdation, food, other extra sources
 
 | SPORTS/ACTIVITY | LOCATION | AMOUNT |
 | ------------- | ------------- | ------------- |
@@ -53,21 +55,22 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 </section>
 
 <section>
-<h2> Quotes </h2>
-<blockquote> <q>  The journey of a thousand miles begins with one step </q>
+
+## Quotes
+> The journey of a thousand miles begins with one step
 <i> - Lao Tzu </i>
-</br>
-<q> Strive not to be a success, but rather to be of value </q>
+
+> Strive not to be a success, but rather to be of value
 <i> - Albert Einstein </i>
-</blockquote>
+
 </section>
 
 <section>
-  <h1>ALGORITHM </h1>
-<hr>
-<blockquote>
+
+  ## ALGORITHM
+
   Competitive Programming Algorithm <https://cp-algorithms.com/geometry/oriented-triangle-area.html> 
-  </blockquote>
+
  
 ```ruby
   int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
