@@ -49,21 +49,15 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 <section>
 
 <h2> Sports </h2>
-<h3> Basketball </h3>
-<p> Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball </p>
-<h3>Cricket </h3>
-<p> Cricket is a bat-and-ball game played between two teams of eleven players each on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps </p>
-<h3> Foot Ball </h3>
-<p> Football is a family of team sports that involve, to varying degrees, kicking a ball to score a goal. Unqualified, the word football normally means the form of football that is the most popular where the word is used. </p>
-<h3> Volley ball </h3>
-<p> Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team's court under organized rules.[1] It has been a part of the official program of the Summer Olympic Games since Tokyo 1964. Beach volleyball was introduced to the programme at the Atlanta 1996.</p>
+<p>  Table shows the sports activity cost effectiveness data which was held on different location in the year-2021. Data shows detailed cost analysis volley ball event held on location cost is higher than badminton sports event, cricket is one of the best game in the world also numerous amount of player resulted in high cost consumption for security, accomdation, food, other extra sources </p>
 
-<table>
-    <td> <h3> Name </h3> </td>
-    <td> <h3> Location </h3> </td>
-    <td> <h3> Amount </h3> </td>
+| SPORTS/ACTIVITY | LOCATION | AMOUNT |
+| ------------- | ------------- | ------------- |
+| VOLLEYBALL  | AMERICA  | $4500  |
+| BADMINTON  | AUSTRALIA  | $3200  |
+| BASKETBALL  | CHINA  | $5500  |
+| CRICKET  | INDIA  | $6000  |
 
-</table>
 </section>
 
 <section>
