@@ -65,7 +65,9 @@ https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 <section>
   <h1>ALGORITHM </h1>
 <hr>
-  <a href="https://cp-algorithms.com/geometry/oriented-triangle-area.html"><blockquote>Competitive Programming Algorithm</blockquote></a>
+<blockquote>
+  Competitive Programming Algorithm <https://cp-algorithms.com/geometry/oriented-triangle-area.html> 
+  </blockquote>
  
 ```ruby
   int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
