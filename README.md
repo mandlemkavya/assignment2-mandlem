@@ -40,4 +40,4 @@ Rajiv Gandhi International Airport is closest airport
 
 
 
-https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutME.md
+https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
