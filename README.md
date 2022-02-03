@@ -4,7 +4,6 @@
 Being vegan subway is the best place to find lot of healthy hygiene veg burgers/sandwiches/pizza for affordable price , one of the favorite item is veg burger which is liked by most of the people.
 ***Inorbit Mall is a subsidiary of K. Raheja Corporation which runs shopping malls in various parts of India***. The first Inorbit Mall opened in 2004, in Malad, Mumbai. This is the fourth oldest shopping mall in Mumbai, from Infiniti Mall of Andheri, R-Mall of Mulund, and Crossroads of South Mumbai.
 
-<section>
 
 ## Directions to Inorbit
 
@@ -31,14 +30,10 @@ Rajiv Gandhi International Airport is closest airport
             -- Mexican wrap
 
 
-</section>
-
-
 About Me Link  
 
 https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 
-<section>
 
 ## Sports
 Table shows the sports activity cost effectiveness data which was held on different location in the year-2021. Data shows detailed cost analysis volley ball event held on location cost is higher than badminton sports event, cricket is one of the best game in the world also numerous amount of player resulted in high cost consumption for security, accomdation, food, other extra sources
@@ -50,9 +45,7 @@ Table shows the sports activity cost effectiveness data which was held on differ
 | BASKETBALL  | CHINA  | $5500  |
 | CRICKET  | INDIA  | $6000  |
 
-</section>
 
-<section>
 
 ## Quotes
 > The journey of a thousand miles begins with one step
@@ -61,9 +54,7 @@ Table shows the sports activity cost effectiveness data which was held on differ
 > Strive not to be a success, but rather to be of value
 *- Albert Einstein*
 
-</section>
 
-<section>
 
 ## ALGORITHM
 
@@ -89,4 +80,3 @@ bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
 
 Competitive Programming Algorithm: <https://cp-algorithms.com/geometry/oriented-triangle-area.html> 
  
-</section>
