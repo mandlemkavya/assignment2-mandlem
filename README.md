@@ -6,7 +6,7 @@ Being vegan subway is the best place to find lot of healthy hygiene veg burgers/
 
 <section>
 
-## ORDERED LIST
+## Directions to Inorbit
 
 Rajiv Gandhi International Airport is closest airport 
 1. Get on Nehru Outer Ring Rd in Gandiguda from Airport Approach Road  
@@ -19,7 +19,7 @@ Rajiv Gandhi International Airport is closest airport
 8. At Gachibowli Cir, take the 3rd exit onto Gachibowli Rd/Old Mumbai Hwy   
 9. At the roundabout, take the 3rd exit onto Inorbit Mall Rd   
 
-## UNORDERED LIST 
+## LIST of Delicious Food 
 
             -- Aloo patty
             -- Italian B.M.T
@@ -35,8 +35,6 @@ Rajiv Gandhi International Airport is closest airport
 
 
 About Me Link  
-
-
 
 https://github.com/mandlemkavya/assignment2-mandlem/blob/main/AboutMe.md
 
@@ -58,10 +56,10 @@ Table shows the sports activity cost effectiveness data which was held on differ
 
 ## Quotes
 > The journey of a thousand miles begins with one step
-<i> - Lao Tzu </i>
+*- Lao Tzu*
 
 > Strive not to be a success, but rather to be of value
-<i> - Albert Einstein </i>
+*- Albert Einstein*
 
 </section>
 
@@ -69,8 +67,7 @@ Table shows the sports activity cost effectiveness data which was held on differ
 
   ## ALGORITHM
 
-  Competitive Programming Algorithm <https://cp-algorithms.com/geometry/oriented-triangle-area.html> 
-
+Algorithm Details: <https://en.wikipedia.org/wiki/Algorithm> 
  
 ```ruby
   int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
@@ -89,5 +86,7 @@ bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
     return signed_area_parallelogram(p1, p2, p3) > 0;
 }
 ```
+
+Competitive Programming Algorithm: <https://cp-algorithms.com/geometry/oriented-triangle-area.html> 
  
 </section>
