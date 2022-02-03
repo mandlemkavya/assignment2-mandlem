@@ -65,7 +65,7 @@ Table shows the sports activity cost effectiveness data which was held on differ
 
 <section>
 
-  ## ALGORITHM
+## ALGORITHM
 
 Algorithm Details: <https://en.wikipedia.org/wiki/Algorithm> 
  
