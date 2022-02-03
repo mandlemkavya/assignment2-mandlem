@@ -58,6 +58,8 @@ Table shows the sports activity cost effectiveness data which was held on differ
 
 ## ALGORITHM
 
+Algorithms are used as specifications for performing calculations, data processing, automated reasoning, automated decision-making and other tasks. In contrast, a heuristic is an approach to problem solving that may not be fully specified or may not guarantee correct or optimal results, especially in problem domains where there is no well-defined correct or optimal result
+
 Algorithm Details: <https://en.wikipedia.org/wiki/Algorithm> 
  
 ```ruby
